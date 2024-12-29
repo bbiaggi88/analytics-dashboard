@@ -4,7 +4,19 @@
 Interactive dashboard analyzing customer sentiment across major US airlines using Twitter data. The project demonstrates data analysis, sentiment visualization, and temporal pattern recognition using Python and Streamlit.
 
 ## Demo
-[Add screenshot or GIF of your dashboard here]
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd00efe6-6680-4588-a8b6-9aa8e953104f" width="800" alt="Dashboard Overview"/>
+  <br>
+  <em>Main Dashboard View - Key Metrics and Overall Insights</em>
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/83025d82-999d-4531-ad18-b551fea2bdae" width="800" alt="Sentiment Analysis"/>
+  <br>
+  <em>Sentiment Distribution Across Airlines</em>
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/67d83cab-a1ac-46d5-b5ff-b344d5d49c98" width="800" alt="Temporal Analysis"/>
+  <br>
+  <em>Temporal Patterns and Engagement Analysis</em>
+</p>
 
 ## Features
 - Real-time filtering by airline
