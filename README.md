@@ -7,15 +7,15 @@ Interactive dashboard analyzing customer sentiment across major US airlines usin
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fd00efe6-6680-4588-a8b6-9aa8e953104f" width="800" alt="Dashboard Overview"/>
   <br>
-  <em>Main Dashboard View - Key Metrics and Overall Insights</em>
+  <em></em>
   <br><br>
   <img src="https://github.com/user-attachments/assets/83025d82-999d-4531-ad18-b551fea2bdae" width="800" alt="Sentiment Analysis"/>
   <br>
-  <em>Sentiment Distribution Across Airlines</em>
+  <em></em>
   <br><br>
   <img src="https://github.com/user-attachments/assets/67d83cab-a1ac-46d5-b5ff-b344d5d49c98" width="800" alt="Temporal Analysis"/>
   <br>
-  <em>Temporal Patterns and Engagement Analysis</em>
+  <em></em>
 </p>
 
 ## Features
@@ -26,7 +26,7 @@ Interactive dashboard analyzing customer sentiment across major US airlines usin
 - Tweet length analysis by sentiment
 
 ## Key Insights
-- Highest tweet volume occurs during business hours (peak at 2 PM EST)
+- Highest tweet volume occurs during business hours (peak at 9 AM)
 - Negative tweets tend to be longer in length, suggesting detailed customer complaints
 - Southwest Airlines shows the highest positive sentiment ratio
 - Weekend activity shows different patterns compared to weekdays
